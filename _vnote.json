@@ -13,6 +13,9 @@
             "name": "ftp"
         },
         {
+            "name": "software"
+        },
+        {
             "name": "web"
         }
     ],

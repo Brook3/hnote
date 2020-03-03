@@ -1,0 +1,29 @@
+{
+    "created_time": "2020-03-02T03:00:42Z",
+    "files": [
+    ],
+    "sub_directories": [
+        {
+            "name": "css"
+        },
+        {
+            "name": "ajax"
+        },
+        {
+            "name": "html"
+        },
+        {
+            "name": "js"
+        },
+        {
+            "name": "json"
+        },
+        {
+            "name": "xml"
+        },
+        {
+            "name": "框架"
+        }
+    ],
+    "version": "1"
+}

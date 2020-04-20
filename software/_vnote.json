@@ -27,6 +27,12 @@
         },
         {
             "name": "obs"
+        },
+        {
+            "name": "qtcreator"
+        },
+        {
+            "name": "navicat"
         }
     ],
     "version": "1"

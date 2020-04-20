@@ -5,6 +5,12 @@
     "sub_directories": [
         {
             "name": "框架"
+        },
+        {
+            "name": "swoole"
+        },
+        {
+            "name": "扩展"
         }
     ],
     "version": "1"

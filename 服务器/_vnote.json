@@ -11,6 +11,9 @@
         },
         {
             "name": "memcached"
+        },
+        {
+            "name": "nginx"
         }
     ],
     "version": "1"

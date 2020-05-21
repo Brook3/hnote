@@ -5,6 +5,9 @@
     "sub_directories": [
         {
             "name": "mongodb"
+        },
+        {
+            "name": "curl"
         }
     ],
     "version": "1"

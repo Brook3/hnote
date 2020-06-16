@@ -120,4 +120,5 @@ Swap:        0k total,        0k used,        0k free,  5122684k cached
 P 大写，结果按CPU占用降序排序
 M 大写，结果按内存占用降序排序
 N 大写，结果按PID降序排序
+u 小写，结果显示筛选后的user进程
 ```

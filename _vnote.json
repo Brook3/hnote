@@ -46,6 +46,9 @@
             "name": "sql"
         },
         {
+            "name": "python"
+        },
+        {
             "name": "项目管理"
         }
     ],

@@ -7,9 +7,6 @@
             "name": "mongodb"
         },
         {
-            "name": "mysql"
-        },
-        {
             "name": "memcached"
         },
         {

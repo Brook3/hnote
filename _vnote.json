@@ -38,6 +38,8 @@
         },
         {
             "name": "wechat"
+        {
+            "name": "sql"
         }
     ],
     "tags": [

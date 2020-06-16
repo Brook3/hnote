@@ -40,6 +40,9 @@
             "name": "wechat"
         {
             "name": "sql"
+        },
+        {
+            "name": "项目管理"
         }
     ],
     "tags": [

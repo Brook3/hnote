@@ -1,6 +1,26 @@
 {
     "created_time": "2020-04-07T03:07:08Z",
     "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-06-09T03:10:57Z",
+            "modified_time": "2020-06-09T03:12:45Z",
+            "name": "README.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-06-09T03:16:38Z",
+            "modified_time": "2020-06-09T03:16:46Z",
+            "name": "版本差异.md",
+            "tags": [
+            ]
+        }
     ],
     "sub_directories": [
         {
@@ -11,6 +31,15 @@
         },
         {
             "name": "扩展"
+        },
+        {
+            "name": "基础"
+        },
+        {
+            "name": "composer"
+        },
+        {
+            "name": "进阶"
         }
     ],
     "version": "1"

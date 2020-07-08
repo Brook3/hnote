@@ -14,6 +14,12 @@
         },
         {
             "name": "redis"
+        },
+        {
+            "name": "swoole"
+        },
+        {
+            "name": "pthreads"
         }
     ],
     "version": "1"

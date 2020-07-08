@@ -1,0 +1,24 @@
+{
+    "created_time": "2020-07-02T06:44:00Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-07-08T07:30:35Z",
+            "modified_time": "2020-07-08T07:31:54Z",
+            "name": "比较.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "supervisor"
+        },
+        {
+            "name": "pm2"
+        }
+    ],
+    "version": "1"
+}

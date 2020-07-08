@@ -5,6 +5,9 @@
     "sub_directories": [
         {
             "name": "代码上线"
+        },
+        {
+            "name": "守护进程管理"
         }
     ],
     "version": "1"

@@ -42,6 +42,9 @@
         },
         {
             "name": "vnote"
+        },
+        {
+            "name": "vscode"
         }
     ],
     "version": "1"

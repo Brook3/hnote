@@ -5,6 +5,9 @@
     "sub_directories": [
         {
             "name": "layui"
+        },
+        {
+            "name": "vue"
         }
     ],
     "version": "1"

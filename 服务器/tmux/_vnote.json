@@ -1,21 +1,18 @@
 {
-    "created_time": "2020-07-02T07:40:27Z",
+    "created_time": "2020-07-14T08:16:17Z",
     "files": [
         {
             "attachment_folder": "",
             "attachments": [
             ],
-            "created_time": "2020-07-14T08:25:34Z",
-            "modified_time": "2020-07-14T08:26:03Z",
+            "created_time": "2020-07-14T08:16:31Z",
+            "modified_time": "2020-07-14T08:18:10Z",
             "name": "安装.md",
             "tags": [
             ]
         }
     ],
     "sub_directories": [
-        {
-            "name": "常见问题"
-        }
     ],
     "version": "1"
 }

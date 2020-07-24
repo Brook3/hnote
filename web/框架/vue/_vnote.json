@@ -1,16 +1,6 @@
 {
     "created_time": "2020-07-13T02:33:54Z",
     "files": [
-        {
-            "attachment_folder": "",
-            "attachments": [
-            ],
-            "created_time": "2020-07-19T08:00:04Z",
-            "modified_time": "2020-07-19T15:07:42Z",
-            "name": "安装.md",
-            "tags": [
-            ]
-        }
     ],
     "sub_directories": [
         {
@@ -23,7 +13,7 @@
             "name": "antd"
         },
         {
-            "name": "vue-router"
+            "name": "vant"
         }
     ],
     "version": "1"

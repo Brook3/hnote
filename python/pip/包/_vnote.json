@@ -8,6 +8,9 @@
         },
         {
             "name": "request"
+        },
+        {
+            "name": "MySQLdb"
         }
     ],
     "version": "1"

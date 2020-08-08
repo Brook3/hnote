@@ -45,6 +45,9 @@
         },
         {
             "name": "常见操作"
+        },
+        {
+            "name": "postfix"
         }
     ],
     "version": "1"

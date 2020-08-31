@@ -105,6 +105,9 @@
     "sub_directories": [
         {
             "name": "仓库"
+        },
+        {
+            "name": "常见问题"
         }
     ],
     "version": "1"

@@ -8,6 +8,9 @@
         },
         {
             "name": "gitea"
+        },
+        {
+            "name": "gogs"
         }
     ],
     "version": "1"

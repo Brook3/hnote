@@ -25,6 +25,9 @@
     "sub_directories": [
         {
             "name": "常见问题"
+        },
+        {
+            "name": "配置"
         }
     ],
     "version": "1"

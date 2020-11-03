@@ -45,6 +45,12 @@
         },
         {
             "name": "常见操作"
+        },
+        {
+            "name": "composer"
+        },
+        {
+            "name": "nodejs"
         }
     ],
     "version": "1"

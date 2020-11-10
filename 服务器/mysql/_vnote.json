@@ -28,6 +28,9 @@
         },
         {
             "name": "phpmyadmin"
+        },
+        {
+            "name": "配置"
         }
     ],
     "version": "1"

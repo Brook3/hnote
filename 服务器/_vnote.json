@@ -29,9 +29,6 @@
             "name": "redis"
         },
         {
-            "name": "php-fpm"
-        },
-        {
             "name": "tmux"
         },
         {
@@ -47,10 +44,13 @@
             "name": "常见操作"
         },
         {
-            "name": "composer"
+            "name": "nodejs"
         },
         {
-            "name": "nodejs"
+            "name": "php"
+        },
+        {
+            "name": "常见问题"
         }
     ],
     "version": "1"

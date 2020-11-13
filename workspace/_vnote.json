@@ -28,6 +28,9 @@
         },
         {
             "name": "resource"
+        },
+        {
+            "name": "home"
         }
     ],
     "version": "1"

@@ -5,6 +5,12 @@
     "sub_directories": [
         {
             "name": "sequelize"
+        },
+        {
+            "name": "moment"
+        },
+        {
+            "name": "schedule"
         }
     ],
     "version": "1"

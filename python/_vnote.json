@@ -5,6 +5,12 @@
     "sub_directories": [
         {
             "name": "pip"
+        },
+        {
+            "name": "爬虫"
+        },
+        {
+            "name": "自动化测试"
         }
     ],
     "version": "1"

@@ -27,19 +27,19 @@
             "name": "框架"
         },
         {
-            "name": "swoole"
-        },
-        {
             "name": "扩展"
         },
         {
             "name": "基础"
         },
         {
-            "name": "composer"
+            "name": "进阶"
         },
         {
-            "name": "进阶"
+            "name": "常见问题"
+        },
+        {
+            "name": "异常捕获"
         }
     ],
     "version": "1"

@@ -48,6 +48,12 @@
         },
         {
             "name": "编辑器"
+        },
+        {
+            "name": "xshell"
+        },
+        {
+            "name": "postman"
         }
     ],
     "version": "1"

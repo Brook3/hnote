@@ -16,10 +16,16 @@
             "name": "redis"
         },
         {
+            "name": "pthreads"
+        },
+        {
+            "name": "xdebug"
+        },
+        {
             "name": "swoole"
         },
         {
-            "name": "pthreads"
+            "name": "socket"
         }
     ],
     "version": "1"

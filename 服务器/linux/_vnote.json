@@ -33,6 +33,9 @@
         },
         {
             "name": "桌面"
+        },
+        {
+            "name": "ubuntu"
         }
     ],
     "version": "1"

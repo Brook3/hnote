@@ -36,6 +36,9 @@
         },
         {
             "name": "ubuntu"
+        },
+        {
+            "name": "常见问题"
         }
     ],
     "version": "1"

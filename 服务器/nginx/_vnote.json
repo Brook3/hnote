@@ -35,16 +35,6 @@
             "attachment_folder": "",
             "attachments": [
             ],
-            "created_time": "2020-07-14T08:23:23Z",
-            "modified_time": "2020-07-14T08:24:51Z",
-            "name": "安装.md",
-            "tags": [
-            ]
-        },
-        {
-            "attachment_folder": "",
-            "attachments": [
-            ],
             "created_time": "2020-07-14T08:29:49Z",
             "modified_time": "2020-07-14T08:31:29Z",
             "name": "常见问题.md",
@@ -95,6 +85,9 @@
     "sub_directories": [
         {
             "name": "反向代理"
+        },
+        {
+            "name": "安装"
         }
     ],
     "version": "1"

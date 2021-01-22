@@ -5,6 +5,12 @@
     "sub_directories": [
         {
             "name": "钉钉"
+        },
+        {
+            "name": "微信"
+        },
+        {
+            "name": "支付宝"
         }
     ],
     "version": "1"

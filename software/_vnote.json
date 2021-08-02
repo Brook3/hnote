@@ -57,6 +57,12 @@
         },
         {
             "name": "you-get"
+        },
+        {
+            "name": "lazygit"
+        },
+        {
+            "name": "mysql-workbench"
         }
     ],
     "version": "1"

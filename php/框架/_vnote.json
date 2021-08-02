@@ -18,6 +18,9 @@
         },
         {
             "name": "thinkphp"
+        },
+        {
+            "name": "yii2"
         }
     ],
     "version": "1"

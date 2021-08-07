@@ -4,3 +4,6 @@
         - [charles](software/proxy/charles.md)
     - [ftp](software/ftp/readme.md)
         - [filezilla](software/ftp/filezilla.md)
+    - [note](software/note/readme.md)
+        - [docsify](software/note/docsify.md)
+        - [vnote](software/note/vnote.md)

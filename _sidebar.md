@@ -2,3 +2,5 @@
 - [软件](software/readme.md)
     - [抓包工具](software/proxy/readme.md)
         - [charles](software/proxy/charles.md)
+    - [ftp](software/ftp/readme.md)
+        - [filezilla](software/ftp/filezilla.md)

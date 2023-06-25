@@ -1,9 +1,9 @@
 - [简介](/)
-- [软件](software/readme.md)
-    - [抓包工具](software/proxy/readme.md)
+- 软件
+    - 抓包工具
         - [charles](software/proxy/charles.md)
-    - [ftp](software/ftp/readme.md)
+    - ftp
         - [filezilla](software/ftp/filezilla.md)
-    - [note](software/note/readme.md)
+    - note
         - [docsify](software/note/docsify.md)
         - [vnote](software/note/vnote.md)

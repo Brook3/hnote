@@ -1,0 +1,16 @@
+touch:
+
+在创建文件的时候，如果需要一次性创建多个文件，比如：“love_1_linux.txt，love_2_linux.txt，... love_10_linux.txt”。在 Linux 中十分方便：
+	$ touch love_{1..10}_linux.txt
+	
+Shell 常用通配符：
+
+字符	含义
+*	匹配 0 或多个字符
+?	匹配任意一个字符
+[list]	匹配 list 中的任意单一字符
+[!list]	匹配 除list 中的任意单一字符以外的字符
+[c1-c2]	匹配 c1-c2 中的任意单一字符 如：[0-9] [a-z]
+{string1,string2,...}	匹配 string1 或 string2 (或更多)其一字符串
+{c1..c2}	匹配 c1-c2 中全部字符 如{1..10}
+

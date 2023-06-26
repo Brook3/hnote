@@ -1,0 +1,24 @@
+fcitx:框架
+
+	1.查看是否安装
+		ubuntu:
+			dpkg -s fcitx
+	2.安装
+		Ubuntu：
+			apt-get fcitx
+			
+# 安装搜狗输入法
+    1. 官网下载安装包
+    2. 点击并在软件管理中安装
+    3. im-config将输入法设置为fcitx
+### 注意
+* im-config别卸载
+* 如果开机后输入法未启动，点击fcitx启动。如果每次都不能正常启动，去找解决方案
+* 无法切换中英文
+    在键盘配置的时候你肯定把英文去掉了，再次编辑即可：
+    fcitx配置
+
+### ibus
+之前为了装搜狗输入法和skype里输入中文，把他搞崩溃了……
+连上边的zh都不显示了。搞了一下午，还是在晚上22:29:45才搞好：
+https://www.cnblogs.com/zhaopengcheng/p/6040605.html

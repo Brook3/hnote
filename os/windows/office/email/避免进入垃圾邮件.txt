@@ -1,0 +1,17 @@
+避免进入垃圾邮件：
+
+项目经验：
+	<a class="style-font" href="//servpage.rimanggis.com/static/html/service-page/unsubscribe-campaign-en.html#!/c1f64e40-3ceb-43bc-878d-4b3ced2b8f7e/zh-cn/false/" style="color:black;text-decoration:none;">退订</a>
+	这里的超链接有问题，会被归入垃圾邮件。没有对应的协议……。加http或者https即可解决。这里由于我们用的是https，所以改为了：<a class="style-font" href="https//servpage.rimanggis.com/static/html/service-page/unsubscribe-campaign-en.html#!/c1f64e40-3ceb-43bc-878d-4b3ced2b8f7e/zh-cn/false/" style="color:black;text-decoration:none;">退订</a>
+注意：
+	1.当第一次发的邮件最好不要有图片和附件；
+	2.邮件中最好不要有URL。
+		有链接的话，也是很容易被拦截，因为邮件系统会认为有潜在威胁。
+		******如果是公司的网址最好是取消链接效果，反垃圾联盟会重点监控URL的邮件；*****
+	3.不要用太奇怪的字体，最好用常规的字体。
+		奇怪的字体系统会认为是广告邮件；
+	4.标题是最关键的。
+		比较另类的标题可以吸引人，不过也是很危险的，加大了拦截的可能性。标题应该朴实一些，正式一点的，避免标题和内容不一致；
+	5.一定要针对性地发邮件，不要群发。
+		群发的拦截率会超高；
+	6.邮件要有合理的排版，不凌乱。

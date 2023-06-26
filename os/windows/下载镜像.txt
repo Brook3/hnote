@@ -1,0 +1,4 @@
+1.https://www.microsoft.com/zh-cn/software-download/windows10
+	下载下载工具
+2.使用该工具创建安装介质（USB 闪存驱动器、DVD 或 ISO 文件），以在其他电脑上安装 Windows 10（单击可显示详细或简要信息）
+	下载好后，运行并创建iso

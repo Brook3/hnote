@@ -1,0 +1,45 @@
+1.mini安装
+	直接安装即可，不做解释
+2.网络连接
+	有线：
+		/etc/sysconfig/network-scripts/ifcfg-eth0中配置，将自动dhcp打开：onboot=yes
+		可参考：
+			https://jingyan.baidu.com/article/fedf07375dc85e35ac89778b.html
+	无线：
+		ifconfig wlp3s0 up
+		wpa_supplicant -B -i wlp3s0 -c <(wpa_passphrase "ssid" "psk")
+		dhclient wlp3s0
+		注意：
+			需要安装wpa命令
+		可参考：
+			https://www.jianshu.com/p/f9e14e50a28a
+3.桌面安装
+	yum grouplist
+	注意：
+		一定要注意 名称必须对应 不同版本的centOS的软件名可能不同 其他Linux系统类似
+		否则会出现No packages in any requested group available to install or update 的错误。
+	可参考：
+		https://jingyan.baidu.com/article/0964eca26fc3b38284f53642.html
+4.安装显卡驱动
+	sudo add-apt-repository ppa:graphics-drivers/ppa
+	sudo apt-get install nvidia-361
+	注意：
+		可将361安装为最新的版本号
+	参考：
+		https://jingyan.baidu.com/article/a17d5285e9efe48098c8f2b9.html
+5.升级
+	从Ubuntu 16.04/17.04升级到Ubuntu 17.10
+	软件与更新-》更新-》发现版本什么的
+	可参考：
+		https://wap.baidu.com/from=0/bd_page_type=1/ssid=f1eaf24f17653228ed9a39300fc28b11.3.1341855614.1.jJChlKVRmxZV/uid=0/pu=sz%40320_1002%2Cta%40iphone_2_6.0_2_12137.1%2Cusm%401/baiduid=DEDA3EC3D613F2046CCFCDA19C00E129/w=0_10_/t=iphone/l=3/tc?ref=www_iphone&lid=11397616014030313948&order=1&fm=alop&tj=www_normal_1_0_10_title&vit=osres&m=8&srd=1&cltj=cloud_title&asres=1&title=%E4%BB%8EUbuntu16.04%2F17.04%E5%8D%87%E7%BA%A7%E5%88%B0Ubuntu17.10(%E5%9B%BE%E5%BD%A2%E5%92%8C%E7%BB%88%E7%AB%AF)...&dict=20&w_qd=IlPT2AEptyoA_yikHlKjDzZsbdCNAfYnuzIWfucJRK&tcplug=1&sec=26463&di=20461a91cb1f4140&bdenc=1&tch=124.119.90.294.0.0&nsrc=IlPT2AEptyoA_yixCFOxXnANedT62v3IEQGG_yJR0CumpEm9xP4kHREsRFv7Lmq3ZpPPdj0PtgIEwGGdWWUi9RJBqbIwdzW&eqid=9e2c7760aa949800100000035a43b98d&wd=&clk_info=%7B%22srcid%22%3A1599%2C%22tplname%22%3A%22www_normal%22%2C%22t%22%3A1514387951280%2C%22xpath%22%3A%22div-div-div-a-p-em4%22%7D&sfOpen=1
+	
+6.安装flash插件
+	sudo apt-get install flashplugin-installer
+	可参考：
+		https://jingyan.baidu.com/article/295430f1cbda8f0c7e00508b.html?tj=exp_relate_1&st=2&os=0&bd_page_type=1&net_type=1&ssid=&from=
+7.安装搜狗输入法
+	在搜狗官网下载：https://pinyin.sogou.com/linux/?r=pinyin
+	$sudo dpkg  -i   sogou_pinyin_linux_1.0.0.0033_amd64.deb
+	$sudo apt-get install -f 
+	可参考：
+		https://jingyan.baidu.com/article/a3aad71aa1abe7b1fa009641.html

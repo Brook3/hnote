@@ -1,0 +1,3 @@
+# mariadb与mysql区别
+1. mysql不支持"0000-00-00 00:00:00"的时间
+  mariadb支持

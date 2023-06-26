@@ -1,2 +1,8 @@
+/.idea/
+/.fleet/
+/.dbeaver/
+/.metadata/
+.DS_Store
 *.vswp
 /_v_recycle_bin/
+

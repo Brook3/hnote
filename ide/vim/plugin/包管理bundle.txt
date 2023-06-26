@@ -1,0 +1,22 @@
+包管理工具：
+	1.vundle
+		Windows下的安装(https://www.cnblogs.com/hfyfpga/p/6013094.html)
+			a.安装gvim
+			b.安装git
+			c.安装vundle
+				git clone https://github.com/gmarik/vundle "D:\Program Files\Vim\vimfiles\bundle\vundle"
+			d.:BundleInstall
+		linux
+			基本差不多
+
+
+		安装tagbar时需要ctags的支持。
+			linux端好像可以直接安装命令行
+			Windows端，可以在这个链接（http://ctags.sourceforge.net/）中安装ctags。参考文档https://www.cnblogs.com/lv_yantao/archive/2011/11/30/2268510.html
+
+	
+
+
+
+插件：
+	https://www.jianshu.com/p/a0b452f8f720

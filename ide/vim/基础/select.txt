@@ -1,0 +1,44 @@
+查找：
+	/
+	?
+快速查找：
+	*
+区分大小写：
+	\c 不区分大小写
+		eg:/word\c
+	
+特殊匹配：
+	\<	词头
+	\>	词尾
+		
+		全词匹配：
+			\<word\>
+	
+计数：
+	:%s/word/&/gn
+		n or N 切换
+
+在文件中查找：
+	:vim[grep][!] /{pattern}/[g][j] {file}
+		g: 如果一行中出现多处，只显示一次，没有g就会出现多次
+		j: 只是列出所有匹配的行，没有j那么就会跳去第一个匹配的行
+		{file}不可空，接受参数与:args相同。通配符*匹配某个目录下的任意文件，而通配符**则会匹配指定目录及其子目录中的任何文件。符号##将被拓展成参数列表中的所有文件。
+		
+		vimgrep /pattern/ %           在当前打开文件中查找
+		vimgrep /pattern/ *           在当前目录下查找所有
+		vimgrep /pattern/ **          在当前目录及子目录下查找所有
+		vimgrep /pattern/ *.c         查找当前目录下所有.c文件
+		vimgrep /pattern/ **/*        只查找子目录
+
+		cn                            查找下一个
+		cp                            查找上一个
+		copen                         打开quickfix
+		cw                            打开quickfix
+		cclose                        关闭qucikfix
+		help vimgrep                  查看vimgrep帮助
+		
+	搜索完毕后可以使用copen或者cw命令来打开搜索的结果。使用jk来移动选中行，回车可以跳到对应的文件。
+
+	copen后面可以指定窗口的高度。
+
+	注意当去到搜到到的文件后，当前的窗口会被该文件覆盖，那么怎么回到原来的文件？ctrl+^

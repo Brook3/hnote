@@ -1,0 +1,32 @@
+安装链接（三选一）：
+	http://www.vim.org/scripts/script.php?script_id=1658
+	https://github.com/scrooloose/nerdtree
+	安装包
+注意事项：
+	文件夹需要全部放到/usr/share/vim/vim74下边，否则报错
+	
+	
+常见报错：
+	1.没有将解压文件全部放到指定目录产生的报错。
+		Error detected while processing /home/.vim/plugin/NERD_tree.vim:
+		line   68:
+		E117: Unknown function: nerdtree#runningWindows
+		E116: Invalid arguments for function <SNR>10_initVariable
+		line   96:
+		E117: Unknown function: nerdtree#runningWindows
+		E15: Invalid expression: nerdtree#runningWindows()
+		line  141:
+		E117: Unknown function: nerdtree#loadClassFiles
+		line  145:
+		E117: Unknown function: nerdtree#ui_glue#setupCommands
+		line  151:
+		E121: Undefined variable: g:NERDTreeCreator
+		E15: Invalid expression: "autocmd BufLeave ". g:NERDTreeCreator.BufNamePrefix() ."* if g:NERDTree.IsOpen() | call b:NERDTree.ui.saveScreenState() | endif"
+		line  154:
+		E121: Undefined variable: g:NERDTreeCreator
+		E15: Invalid expression: "autocmd BufEnter ". g:NERDTreeCreator.BufNamePrefix() ."* stopinsert"
+		line  205:
+		E117: Unknown function: nerdtree#postSourceActions
+		Press ENTER or type command to continue
+		解决办法：
+			全部放进去

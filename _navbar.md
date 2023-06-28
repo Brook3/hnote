@@ -1,0 +1,9 @@
+* 开源
+    * [SourceForge](//sourceforge.net)
+    * [ArchLinux](//wiki.archlinux.org)
+    * [Linux中国](//linux.cn)
+* 平台
+    * [botzone](//www.botzone.org.cn)
+* 友情链接
+    * [Docsify](//docsify.js.org)
+    * [bilibili](//www.bilibili.com)

@@ -201,13 +201,13 @@
       - email
         - [postfix_sendmail](workspace/os/linux/email/postfix_sendmail.md)
       - notes
-        - [atom](workspace/os/linux/notes/atom)
-        - [centos](workspace/os/linux/notes/centos)
-        - [git](workspace/os/linux/notes/git)
-        - [kvm](workspace/os/linux/notes/kvm)
-        - [lnmp](workspace/os/linux/notes/lnmp)
-        - [postfix_sendmail](workspace/os/linux/notes/postfix_sendmail)
-        - [ssh](workspace/os/linux/notes/ssh)
+        - [atom](workspace/os/linux/notes/atom.md)
+        - [centos](workspace/os/linux/notes/centos.md)
+        - [git](workspace/os/linux/notes/git.md)
+        - [kvm](workspace/os/linux/notes/kvm.md)
+        - [lnmp](workspace/os/linux/notes/lnmp.md)
+        - [postfix_sendmail](workspace/os/linux/notes/postfix_sendmail.md)
+        - [ssh](workspace/os/linux/notes/ssh.md)
       - ubuntu
         - [note](workspace/os/linux/ubuntu/note.md)
       - wsl
@@ -512,6 +512,12 @@
       - [flex](workspace/web/css/flex.md)
       - [排版](workspace/web/css/排版.md)
       - [文本](workspace/web/css/文本.md)
+    - html
+      - [小技巧](workspace/web/html/小技巧.md)
+      - 表单
+        - [form_data](workspace/web/html/表单/form_data.md)
+        - [input](workspace/web/html/表单/input.md)
+        - [常见问题](workspace/web/html/表单/常见问题.md)
     - js
       - jquery
         - [添加元素](workspace/web/js/jquery/添加元素.md)

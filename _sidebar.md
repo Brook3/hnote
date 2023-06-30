@@ -1,4 +1,5 @@
-- [首页](/)
+- [home](/)
+- [admin](admin.md)
 - [README](README.md)
 - hcode
   - home

@@ -1,4 +1,5 @@
 - [home](/)
+- [site](site.md)
 - [admin](admin.md)
 - [README](README.md)
 - hcode
@@ -568,7 +569,6 @@
     - mediawiki
       - [简介](workspace/wiki/mediawiki/简介.md)
   - 浏览器
-    - [link](workspace/浏览器/link.md)
     - chrome
       - [扩展](workspace/浏览器/chrome/扩展.md)
   - 集成环境安装

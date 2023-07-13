@@ -6,10 +6,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <style>
+    .sidebar .sidebar-nav {
+      padding-bottom: 80px !important;
+    }
+    .sidebar-toggle {
+      top: 0;
+      bottom: unset !important;
+    }
+  </style>
 </head>
 <body>
   <div id="app"></div>
   <script>
+    console.log = function(){}
     window.$docsify = {
       name: 'Brook3',
       nameLink: '//brook3.com',
@@ -100,5 +110,18 @@
       props.id = decodeURI(location.hash.split('#')[1]); //根据路由切换对应的issue
     }
   </script>
+  <!-- require APlayer -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+  <!-- require MetingJS -->
+  <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+  <meting-js
+    server="netease"
+    type="playlist"
+    id="2068736584"
+    autoplay="false"
+    fixed="true"
+    mutex="true"
+  ></meting-js>
 </body>
 </html>

@@ -1,8 +1,8 @@
 ## python
-* [jupyterlab](//127.0.0.1:8888)
+* [jupyterlab](//jupyterlab.localhost)
 
 ## docsify
-* [hnote](//127.0.0.1:3000)
+* [hnote](//note.localhost)
 
 ## selenium
 * [hub](//127.0.0.1:4444)
@@ -11,7 +11,7 @@
 * [vnc-edge](//127.0.0.1:7902)
 
 ## elk
-* [kibana](//127.0.0.1:5601)
+* [kibana](//kibana.localhost)
 
 ## rabbitmq
-* [rabbitmq](//127.0.0.1:15672)
+* [rabbitmq](//rabbitmq.localhost)

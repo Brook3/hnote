@@ -5,4 +5,4 @@
 .DS_Store
 *.vswp
 /_v_recycle_bin/
-
+/.ipynb_checkpoints/

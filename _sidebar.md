@@ -1,7 +1,7 @@
 - [home](/)
-- [site](site.md)
-- [admin](admin.md)
 - [README](README.md)
+- [admin](admin.md)
+- [site](site.md)
 - hcode
   - home
     - [组件](hcode/home/组件.md)
@@ -53,6 +53,7 @@
     - [web](hdata/知识点/web.md)
     - [安全](hdata/知识点/安全.md)
     - [数据库](hdata/知识点/数据库.md)
+    - [数据结构](hdata/知识点/数据结构.md)
     - [服务器](hdata/知识点/服务器.md)
     - [简介](hdata/知识点/简介.md)
     - [算法](hdata/知识点/算法.md)
@@ -348,6 +349,7 @@
     - [top](workspace/shell/top.md)
     - [umask](workspace/shell/umask.md)
     - [常用](workspace/shell/常用.md)
+    - [输出颜色](workspace/shell/输出颜色.md)
   - software
     - [readme](workspace/software/readme.md)
     - blender
@@ -578,9 +580,14 @@
     - phpstudy
       - [安装](workspace/集成环境安装/phpstudy/安装.md)
   - 项目管理
+    - sql审核
+      - [archery](workspace/项目管理/sql审核/archery.md)
+      - [yearning](workspace/项目管理/sql审核/yearning.md)
     - 仓库管理
       - github
-        - [githubpages](workspace/项目管理/仓库管理/github/githubpages.md)
+        - [pages](workspace/项目管理/仓库管理/github/pages.md)
+      - gitlab
+        - [pages](workspace/项目管理/仓库管理/gitlab/pages.md)
       - gogs
         - [常见问题](workspace/项目管理/仓库管理/gogs/常见问题.md)
       - jekyll
@@ -599,8 +606,11 @@
       - supervisor
         - [安装](workspace/项目管理/守护进程管理/supervisor/安装.md)
         - [常见问题](workspace/项目管理/守护进程管理/supervisor/常见问题.md)
+    - 定时任务
+      - [gocron](workspace/项目管理/定时任务/gocron.md)
     - 自动化部署
       - jenkins
         - [安装](workspace/项目管理/自动化部署/jenkins/安装.md)
       - syncd
         - [简介](workspace/项目管理/自动化部署/syncd/简介.md)
+

@@ -312,6 +312,7 @@
       - proe
     - ps
   - python
+    - [module](workspace/python/module.md)
     - pip
       - [使用](workspace/python/pip/使用.md)
       - [安装](workspace/python/pip/安装.md)
@@ -331,7 +332,6 @@
   - redis
     - [常见问题](workspace/redis/常见问题.md)
     - [操作](workspace/redis/操作.md)
-    - [案例](workspace/redis/案例.md)
     - [配置](workspace/redis/配置.md)
   - shell
     - [awk](workspace/shell/awk.md)
@@ -354,6 +354,8 @@
     - [readme](workspace/software/readme.md)
     - blender
       - [安装](workspace/software/blender/安装.md)
+    - dbevear
+      - [连接问题](workspace/software/dbevear/连接问题.md)
     - dict
       - [ydcv](workspace/software/dict/ydcv.md)
     - ftp

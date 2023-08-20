@@ -31,6 +31,13 @@ module12-run
 
 主要是在 sys.path 里边默认只动态加入了执行脚本对应的父目录作为搜索路径。故module1兄弟包或者父包都是找不到搜索路径的。
 
+## sys.path.append
+```
+import sys
+sys.path.append('/workspace/code/hcode/python/h')
+```
+注意：当同一目录下，有同名的文件和目录，则会异常。可能优先认为是文件。
+即：app/server.py 与 app/server/live.py 引入会异常，报没有server这个包
 
 ## 优雅的解决引入包
 当然，可以手动将目录添加到 sys.path 中，然后就可以进行导入包了。

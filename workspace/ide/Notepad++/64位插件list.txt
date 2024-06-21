@@ -1,2 +1,0 @@
-list:
-	https://sourceforge.net/projects/npp-plugins/files/

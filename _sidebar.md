@@ -1,5 +1,4 @@
 - [home](/)
-- [admin](admin.md)
 - [README](README.md)
 - hcode
   - live
